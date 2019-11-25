@@ -2,8 +2,11 @@
   "name": "@ui5-next/theme-quartzdark",
   "version": "1.0.0",
   "description": "",
+  "private": false,
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "release": "npm publish --access public --tag latest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ui5-next/theme-quartzdark.git"

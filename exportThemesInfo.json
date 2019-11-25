@@ -1,0 +1,128 @@
+{
+	"zipInfo": {
+		"creatorName": "Theming Engine",
+		"creatorVersion": "1.46.4",
+		"created": "2019-11-25T05:22:33Z",
+		"lessVersion": "1.6.3",
+		"compression": "none",
+		"exportMode": "ALL"
+	},
+	"contentInfo": {
+		"sourcePath": "https://themedesigner-i337313trial.dispatcher.hanatrial.ondemand.com/theming/repository/~v=UI5:1.72.1,UR:10.30.7.318050.0,Base:11.1.15",
+		"frameworks": {
+			"UI5": {
+				"version": "1.72.1"
+			},
+			"UR": {
+				"version": "10.30.7.318050.0"
+			},
+			"Base": {
+				"version": "11.1.15"
+			}
+		},
+		"libraries": {
+			"UI5.sap/f": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/fe": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/fiori": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/gantt": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/m": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ovp": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/rules/ui": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/suite/ui/commons": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/suite/ui/generic/template": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/suite/ui/microchart": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/tnt": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/codeeditor": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/comp": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/core": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/dt": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/fl": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/layout": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/mdc": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/richtexteditor": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/rta": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/suite": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/table": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/unified": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/ui/vk": {
+				"version": "1.72.0"
+			},
+			"UI5.sap/ushell": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/uxap": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/viz": {
+				"version": "1.72.1"
+			},
+			"UI5.sap/zen/crosstab": {
+				"version": "1.72.0"
+			},
+			"UR.baseLib": {
+				"version": "10.30.7.318050.0"
+			},
+			"UR.ls": {
+				"version": "10.30.7.318050.0"
+			},
+			"Base.baseLib": {
+				"version": "11.1.15"
+			}
+		},
+		"themes": {
+			"quartzdark": {
+				"id": "quartzdark",
+				"extends": "sap_fiori_3",
+				"label": "Quartz Dark",
+				"vendor": "",
+				"textDirections": "LTR"
+			}
+		}
+	}
+}

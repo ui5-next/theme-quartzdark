@@ -1,0 +1,53 @@
+{
+	"mVersionDependency": {
+		"UR.ls.sap_fiori_3": "10.30.7.318050.0",
+		"UR.ls": "10.30.7.318050.0",
+		"UR": "10.30.7.318050.0"
+	},
+	"sEntity": "Theme",
+	"sId": "quartzdark",
+	"sLabel": "Quartz Dark",
+	"oExtends": "UR.ls.sap_fiori_3",
+	"aBuildFiles": [
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_regular"
+	],
+	"aFiles": [
+		"base",
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_regular",
+		"custom"
+	],
+	"sTextDirections": "LTR",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"mCssScopes": {
+		"standards": {
+			"sEmbeddingMethod": "APPEND",
+			"aScopes": [
+				{
+					"sLabel": "Condensed",
+					"sSelector": "lsCondensed",
+					"sEmbeddedFile": "standards_condensed",
+					"sEmbeddedCompareFile": "standards"
+				}
+			]
+		},
+		"standards_regular": {
+			"sEmbeddingMethod": "APPEND",
+			"aScopes": [
+				{
+					"sLabel": "Condensed",
+					"sSelector": "lsCondensed",
+					"sEmbeddedFile": "standards",
+					"sEmbeddedCompareFile": "standards_regular"
+				}
+			]
+		}
+	},
+	"sReleaseStage": "GENERAL_AVAILABILITY"
+}

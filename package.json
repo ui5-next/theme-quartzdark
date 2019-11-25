@@ -1,0 +1,17 @@
+{
+  "name": "@ui5-next/theme-quartzdark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ui5-next/theme-quartzdark.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ui5-next/theme-quartzdark/issues"
+  },
+  "homepage": "https://github.com/ui5-next/theme-quartzdark#readme"
+}

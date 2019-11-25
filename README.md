@@ -1,1 +1,1 @@
-# theme-quartzdark
+# UI5 Theme - QuartzDark

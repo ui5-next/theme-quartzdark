@@ -1,0 +1,28 @@
+{
+	"mVersionDependency": {
+		"UR.baseLib.sap_fiori_3": "10.30.7.318050.0",
+		"UR.baseLib": "10.30.7.318050.0",
+		"UR": "10.30.7.318050.0"
+	},
+	"sEntity": "Theme",
+	"sId": "quartzdark",
+	"sLabel": "Quartz Dark",
+	"oExtends": "UR.baseLib.sap_fiori_3",
+	"aBuildFiles": [
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_regular"
+	],
+	"aFiles": [
+		"base",
+		"standards",
+		"standards_cozy",
+		"standards_condensed",
+		"standards_regular"
+	],
+	"sTextDirections": "LTR",
+	"sType": "STANDARD",
+	"sThemability": "PUBLIC",
+	"sReleaseStage": "GENERAL_AVAILABILITY"
+}
